@@ -1,8 +1,7 @@
-numpy
-matplotlib
+numpy == 1.16.*
+matplotlib == 3.*
 geopandas
 xarray
 pandas
-utm
 rasterio
 gdal
