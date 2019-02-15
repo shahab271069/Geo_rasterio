@@ -1,9 +1,7 @@
-numpy == 1.16.*
-matplotlib == 3.*
+numpy
+matplotlib
 geopandas
 xarray
 pandas
 rasterio
-conda install -c conda-forge gdal 
-conda install -c conda-forge netcdf4 
 
