@@ -4,4 +4,6 @@ geopandas
 xarray
 pandas
 rasterio
-gdal
+conda install -c conda-forge gdal 
+conda install -c conda-forge netcdf4 
+
