@@ -1,0 +1,8 @@
+numpy
+matplotlib
+geopandas
+xarray
+pandas
+utm
+rasterio
+gdal
