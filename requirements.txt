@@ -5,3 +5,5 @@ xarray
 pandas
 rasterio
 tensorflow
+py3_parcels
+pyinstaller
