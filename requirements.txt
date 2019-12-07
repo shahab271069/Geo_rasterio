@@ -4,5 +4,5 @@ geopandas
 xarray
 pandas
 rasterio
-py3_parcels
-pyinstaller
+
+
